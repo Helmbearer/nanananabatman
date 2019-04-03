@@ -1,0 +1,14 @@
+---
+layout: archive
+
+---
+
+{% for staff_member in site.staff_members %}
+
+        <img src = "{{site.baseurl}}/assets/members/{{staff_member.image}}" class="align-left" alt ="" style="width:238px" style="height: 320px">
+        {{ staff_member.name }} - {{ staff_member.position }} <br/>
+        {{ staff_member.email }} <br/>
+        {{ staff_member.topics }} 
+        {{ staff_member.content | markdownify }}
+       
+{% endfor %}

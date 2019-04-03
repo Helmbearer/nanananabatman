@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-03-27T00:08:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Remote Sensing and Earth Surface Processes</title><subtitle>Team webpage of the Remote Sensing and Earth Surface Processes group at the University of Potsdam</subtitle><author><name>Remote Sensing and Earth Surface Processes</name><email>bodo.bookhagen@uni-potsdam.de</email></author><entry><title type="html">My first post</title><link href="http://localhost:4000/blog/blog-post/" rel="alternate" type="text/html" title="My first post" /><published>2019-02-14T00:00:00+01:00</published><updated>2019-02-14T00:00:00+01:00</updated><id>http://localhost:4000/blog/blog-post</id><content type="html" xml:base="http://localhost:4000/blog/blog-post/">&lt;p&gt;my first post looks just fine. To test the excerpt function I think there has to be a lot of text in this blog post so I will just try to get a lot of words with copying some song lyrics:&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’m going to San bernardino ring-a-ding-ding
+Milkshake mixers that’s my thing, now
+These guys bought a heap of my stuff
+And I gotta see a good thing sure enough, now
+Or my name’s not kroc that’s kroc with a ‘k’
+Like ‘crocodile’ but not spelled that way, yeah
+It’s dog eat dog rat eat rat
+Kroc-style boom, like that
+The folks line up all down the street
+And I’m seeing this girl devour her meat, now
+And then I get it, wham as clear as day
+My pulse begins to hammer and I hear a voice say
+These boys have got this down
+Oughtta be a one of these in every town
+These boys have got the touch
+It’s clean as a whistle and it don’t cost much
+Wham, bam you don’t wait long
+Shake, fries patty, you’re gone
+And how about that friendly name?
+Heck, every little thing oughtta stay the same
+Or my name’s not kroc that’s kroc with a ‘k’
+Like ‘crocodile’ but not spelled that way, now
+It’s dog eat dog rat eat rat
+Kroc-style boom, like that
+You gentlemen ought to expand
+You’re going to need a helping hand, now
+So, gentlemen well, what about me?
+We’ll make a little business history, now
+Or my name’s not kroc call me ray
+Like ‘crocodile’ but not spelled that way, now
+It’s dog eat dog rat eat rat
+Kroc-style boom, like that
+Well we build it up and I buy ‘em out
+But, man they made me grind it out, now
+They open up a new place flipping meat
+So I do, too right across the street
+I got the name I need the town
+They sell up in the end and it all shuts down&amp;gt;
+Sometimes you gotta be an s.o.b.
+You want to make a dream reality
+Competition? send ‘em south
+If they’re gonna drown
+Put a hose in their mouth
+Do not pass ‘go’ go straight to hell
+I smell that meat hook smell
+Or my name’s not kroc that’s kroc with a ‘k’
+Like ‘crocodile’ but not spelled that way, now
+It’s dog eat dog rat eat rat
+Kroc-style boom, like that&lt;/p&gt;</content><author><name>Remote Sensing and Earth Surface Processes</name><email>bodo.bookhagen@uni-potsdam.de</email></author><summary type="html">my first post looks just fine. To test the excerpt function I think there has to be a lot of text in this blog post so I will just try to get a lot of words with copying some song lyrics:</summary></entry><entry><title type="html">Howto create webpages</title><link href="http://localhost:4000/posts/2019/01/Howto-create-webpages" rel="alternate" type="text/html" title="Howto create webpages" /><published>2019-01-08T00:00:00+01:00</published><updated>2019-01-08T00:00:00+01:00</updated><id>http://localhost:4000/posts/2019/01/PointCloud-to-GMT</id><content type="html" xml:base="http://localhost:4000/posts/2019/01/Howto-create-webpages"></content><author><name>Remote Sensing and Earth Surface Processes</name><email>bodo.bookhagen@uni-potsdam.de</email></author><summary type="html"></summary></entry></feed>

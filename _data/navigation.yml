@@ -1,0 +1,20 @@
+# main links
+main:
+  - title: "Team"
+    url: /staff-members/
+
+  - title: "Codes"
+    url: /codes/    
+
+  - title: "Posts and Tutorials"
+    url: /year-archive/    
+  
+  - title: "Blogs"
+    url: /Blogs/
+    
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
