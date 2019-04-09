@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/codes/codes/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/posts/2019/01/Howto-create-webpages</loc>
@@ -14,23 +14,23 @@
 </url>
 <url>
 <loc>http://localhost:4000/team_members/Ben/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team_members/Bodo/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team_members/Jane/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team_members/John.1/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/team_members/John/</loc>
-<lastmod>2019-03-27T00:08:55+01:00</lastmod>
+<lastmod>2019-04-09T12:36:10+02:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/archive-layout-with-content/</loc>
