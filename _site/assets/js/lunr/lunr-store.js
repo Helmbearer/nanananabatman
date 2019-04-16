@@ -15,27 +15,27 @@ var store = [{
         "url": "http://localhost:4000/blog/blog-post/",
         "teaser":null},{
         "title": "Ben Purinton",
-        "excerpt":"   Ben Purinton - PhD   blabla@gmx.de   Remote Sensing   benpurinton.de   ","categories": [],
+        "excerpt":"Ben Purinton - PhD  blabla@gmx.de  Remote Sensing  benpurinton.de      ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Ben/",
-        "teaser":"http://localhost:4000/team_members/img/skarsnik.png"},{
+        "teaser":null},{
         "title": "Bodo Bookhagen",
         "excerpt":"Bodo Bookhagen - Prof. Dr. BodoBookhagen@gmx.de   Being the Boss  BodoBookhagen.de      Bodo is da best!  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Bodo/",
-        "teaser":"http://localhost:4000/team_members/img/Bodo.png"},{
+        "teaser":null},{
         "title": "Jane Doe",
         "excerpt":"Jane Doe - PhD JaneDoe@gmx.de   Hiding  JaneDoe.de      Jane is not seen often  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Jane/",
-        "teaser":"http://localhost:4000/team_members/img/Jane.jpg"},{
+        "teaser":null},{
         "title": "John Doe 1",
         "excerpt":"John Doe 1 - MSc, JohnDoe1@gmx.de   Being not there  JohnDoe.de      No one Knows John1  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/John.1/",
-        "teaser":"http://localhost:4000/team_members/img/John.1.png"},{
+        "teaser":null},{
         "title": "John Doe",
         "excerpt":"John Doe - MSc, JohnDoe@gmx.de   Being not there  JohnDoe.de      No one Knows John  ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/John/",
-        "teaser":"http://localhost:4000/team_members/img/John.png"}]
+        "teaser":null}]

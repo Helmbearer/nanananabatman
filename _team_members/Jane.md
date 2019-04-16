@@ -7,8 +7,7 @@ email: JaneDoe@gmx.de
 topics: Hiding
 homepage: JaneDoe.de
 image: /img/jane.jpg
-header:
-    teaser: /team_members/img/Jane.jpg
+
 ---
 
 {{page.name}} - {{page.position}}

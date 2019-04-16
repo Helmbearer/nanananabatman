@@ -7,8 +7,7 @@ email: JohnDoe@gmx.de
 topics: Being not there
 homepage: JohnDoe.de
 image: /img/john.png
-header:
-    teaser: /team_members/img/John.png
+
 ---
 
 {{page.name}} - {{page.position}}

@@ -7,8 +7,7 @@ email: BodoBookhagen@gmx.de
 topics: Being the Boss
 homepage: BodoBookhagen.de
 image: /img/bodo.png
-header:
-    teaser: /team_members/img/Bodo.png
+
 ---
 {{page.name}} - {{page.position}}
 {{page.email}}   
