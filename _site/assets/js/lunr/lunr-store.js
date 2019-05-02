@@ -2,7 +2,7 @@ var store = [{
         "title": "RS-ESP",
         "excerpt":"Codes:          PC (PointCloud)            DEM (Digital Elevation Models)            Environmental Data            Time Series Analysis and Extreme Events      ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/codes/codes/",
+        "url": "http://localhost:4000/_codes/",
         "teaser":null},{
         "title": "Howto create webpages",
         "excerpt":" ","categories": [],

@@ -13,11 +13,11 @@ header:
   caption: "Photo credit: [Bodo Bookhagen](https://bodobookhagen.github.io/)"
 excerpt: ""
 gallery1:
-  - url: https://up-rs-esp.github.io/_team/
+  - url: /team_members/
     image_path: /images/team.png
-  - url: https://up-rs-esp.github.io/_codes/
+  - url: /_codes/
     image_path: /images/codes.png
-  - url: https://up-rs-esp.github.io/_posts/
+  - url: /blogs/
     image_path: /images/blogs_and_tutorials.png
 ---
 {% include gallery id="gallery1" %}

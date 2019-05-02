@@ -4,7 +4,7 @@ main:
     url: /team_members/
 
   - title: "Codes"
-    url: /codes/    
+    url: /_codes/    
 
   - title: "Posts and Tutorials"
     url: /year-archive/    
