@@ -14,28 +14,43 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/blog/blog-post/",
         "teaser":null},{
+        "title": "Ben Purinton 1",
+        "excerpt":"Ben Purinton - PhD  blabla@gmx.de  Remote Sensing  benpurinton.de      ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/team_members/Ben.1/",
+        "teaser":null},{
         "title": "Ben Purinton",
         "excerpt":"Ben Purinton - PhD  blabla@gmx.de  Remote Sensing  benpurinton.de      ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Ben/",
         "teaser":null},{
+        "title": "Bodo Bookhagen 1",
+        "excerpt":"Bodo Bookhagen - Prof. Dr.  BodoBookhagen@gmx.de  Being the Boss  BodoBookhagen.de     ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/team_members/Bodo.1/",
+        "teaser":null},{
         "title": "Bodo Bookhagen",
-        "excerpt":"Bodo Bookhagen - Prof. Dr. BodoBookhagen@gmx.de   Being the Boss  BodoBookhagen.de      Bodo is da best!  ","categories": [],
+        "excerpt":"Bodo Bookhagen - Prof. Dr.  BodoBookhagen@gmx.de  Being the Boss  BodoBookhagen.de     ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Bodo/",
         "teaser":null},{
+        "title": "Jane Doe 1",
+        "excerpt":"Jane Doe - PhD  JaneDoe@gmx.de  Hiding  JaneDoe.de     ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/team_members/Jane.1/",
+        "teaser":null},{
         "title": "Jane Doe",
-        "excerpt":"Jane Doe - PhD JaneDoe@gmx.de   Hiding  JaneDoe.de      Jane is not seen often  ","categories": [],
+        "excerpt":"Jane Doe - PhD  JaneDoe@gmx.de  Hiding  JaneDoe.de     ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/Jane/",
         "teaser":null},{
         "title": "John Doe 1",
-        "excerpt":"John Doe 1 - MSc, JohnDoe1@gmx.de   Being not there  JohnDoe.de      No one Knows John1  ","categories": [],
+        "excerpt":"John Doe 1 - MSc,  JohnDoe1@gmx.de  Being not there1  JohnDoe1.de     ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/John.1/",
         "teaser":null},{
         "title": "John Doe",
-        "excerpt":"John Doe - MSc, JohnDoe@gmx.de   Being not there  JohnDoe.de      No one Knows John  ","categories": [],
+        "excerpt":"John Doe - MSc,  JohnDoe@gmx.de  Being not there  JohnDoe.de     ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/team_members/John/",
         "teaser":null}]

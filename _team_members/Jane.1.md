@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Bodo Bookhagen
-position: Prof. Dr.
-name: Bodo Bookhagen
-email: BodoBookhagen@gmx.de
-topics: Being the Boss
-homepage: BodoBookhagen.de
-image: /img/bodo.png
+title: Jane Doe 1
+position: PhD
+name: Jane Doe
+email: JaneDoe@gmx.de
+topics: Hiding
+homepage: JaneDoe.de
+image: /img/jane.jpg
 
 ---
 

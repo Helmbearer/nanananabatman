@@ -10,11 +10,9 @@ image: /img/john.png
 
 ---
 
-{{page.name}} - {{page.position}}
-{{page.email}}   
+{{page.name}} - {{page.position}}  
+{{page.email}}  
 {{page.topics}}  
 {{page.homepage}}
 
-![](/team_members/img/John.png){:height="360px" width="360px"}
-
-No one Knows John
+![](/team_members/img/skarsnik.png){:height="200px" width="200px"}{: style="float:left"}  

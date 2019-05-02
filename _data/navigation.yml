@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Team"
-    url: /staff-members/
+    url: /team_members/
 
   - title: "Codes"
     url: /codes/    

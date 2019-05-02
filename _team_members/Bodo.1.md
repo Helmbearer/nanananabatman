@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Bodo Bookhagen
+title: Bodo Bookhagen 1
 position: Prof. Dr.
 name: Bodo Bookhagen
 email: BodoBookhagen@gmx.de

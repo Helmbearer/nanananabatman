@@ -10,11 +10,9 @@ image: /img/jane.jpg
 
 ---
 
-{{page.name}} - {{page.position}}
-{{page.email}}   
+{{page.name}} - {{page.position}}  
+{{page.email}}  
 {{page.topics}}  
 {{page.homepage}}
 
-![](/team_members/img/Jane.jpg){:height="360px" width="360px"}
-
-Jane is not seen often
+![](/team_members/img/skarsnik.png){:height="200px" width="200px"}{: style="float:left"}  
