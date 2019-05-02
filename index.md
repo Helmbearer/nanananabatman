@@ -17,7 +17,7 @@ gallery1:
     image_path: /images/team.png
   - url: /_codes/
     image_path: /images/codes.png
-  - url: /blogs/
+  - url: /Blogs/
     image_path: /images/blogs_and_tutorials.png
 ---
 {% include gallery id="gallery1" %}
